@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "reactstrap";
 
-import About1 from "../../img/about-blockchain.jpg";
+import About from "../../img/about-blockchain.jpg";
 
 export default class About extends React.Component {
   render() {
