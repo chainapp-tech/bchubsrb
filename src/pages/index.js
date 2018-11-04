@@ -21,7 +21,7 @@ import Blockchain from "../components/blockchain/Blockchain";
 import Contact from "../components/contact/Contact";
 import Team from "../components/team/Team";
 import Partners from "../components/partners/Partners";
-import Activities from "../components/activities/activities";
+import Activities from "../components/activities/Activities";
 
 export default class IndexPage extends React.Component {
   render() {
