@@ -36,7 +36,7 @@ export default class IndexPage extends React.Component {
         <Activities />
         <Team />
         <Blockchain />
-        <section className="section">
+        <section id="blog" className="section">
           <Container>
             <Row>
               <Col className="text-center">

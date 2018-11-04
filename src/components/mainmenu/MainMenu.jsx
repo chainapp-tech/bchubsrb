@@ -45,23 +45,33 @@ export default class MainMenu extends React.Component {
                       </Link>
                     </NavItem>
                     <NavItem>
-                      <Link className="nav-link" to="/about">
-                        About
+                      <Link className="nav-link" to="#principles">
+                        Principles
                       </Link>
                     </NavItem>
                     <NavItem>
-                      <Link className="nav-link" to="/products">
-                        Products
+                      <Link className="nav-link" to="#activities">
+                        Activities
                       </Link>
                     </NavItem>
                     <NavItem>
-                      <Link className="nav-link" to="#services">
-                        Services
+                      <Link className="nav-link" to="#team">
+                        Team
                       </Link>
                     </NavItem>
                     <NavItem>
-                      <Link className="nav-link" to="#portfolio">
-                        Portfolio
+                      <Link className="nav-link" to="#about">
+                        About Blockchain
+                      </Link>
+                    </NavItem>
+                    <NavItem>
+                      <Link className="nav-link" to="#blog">
+                        Blog
+                      </Link>
+                    </NavItem>
+                    <NavItem>
+                      <Link className="nav-link" to="#contact">
+                        Contact
                       </Link>
                     </NavItem>
                   </Nav>
