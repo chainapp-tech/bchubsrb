@@ -3,7 +3,7 @@ import { Container, Row, Col } from "reactstrap";
 
 import About from "../../img/about-blockchain.jpg";
 
-export default class About extends React.Component {
+export default class AboutBlockchain extends React.Component {
   render() {
     return (
       <div>
@@ -35,7 +35,7 @@ export default class About extends React.Component {
                 </p>
               </Col>
               <Col className="col-md-2">
-                <img className="rounded-circle img-fluid" src={About1} alt="" />
+                <img className="rounded-circle img-fluid" src={About} alt="" />
               </Col>
               <Col className="col-md-5 text-light text-left">
                 <h4 className="service-heading">
