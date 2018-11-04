@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: BlockcChain hub Serbia
+title: BlockChain hub Serbia
 date: 2018-11-04T16:03:49.631Z
 description: Short description about Blockchain Hub Serbia goes here
 tags:
