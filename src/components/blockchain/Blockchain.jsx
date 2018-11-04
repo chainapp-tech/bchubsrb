@@ -3,7 +3,7 @@ import { Container, Row, Col } from "reactstrap";
 
 import Chain from "../../img/about-blockchain.jpg";
 
-export default class AboutBlockchain extends React.Component {
+export default class Blockchain extends React.Component {
   render() {
     return (
       <div>

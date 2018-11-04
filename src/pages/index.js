@@ -17,7 +17,7 @@ import {
 
 import Hero from "../components/hero/Hero";
 import Principles from "../components/principles/Principles";
-import AboutBlockchain from "../components/aboutBlockchain/AboutBlockchain";
+import Blockchain from "../components/blockchain/Blockchain";
 import Contact from "../components/contact/Contact";
 import Team from "../components/team/Team";
 import Partners from "../components/partners/Partners";
@@ -35,7 +35,7 @@ export default class IndexPage extends React.Component {
         <Principles />
         <Activities />
         <Team />
-        <AboutBlockchain />
+        <Blockchain />
         <section className="section">
           <Container>
             <Row>
