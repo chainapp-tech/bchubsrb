@@ -13,7 +13,7 @@ export default class Principles extends React.Component {
                   Our Principles
                 </h2>
                 <h3 className="section-subheading text-muted">
-                  7 Governance Principles
+                  Seven Governance Principles
                 </h3>
               </Col>
             </Row>
